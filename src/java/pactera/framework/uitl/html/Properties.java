@@ -1,4 +1,4 @@
-package pactera.uitl.html;
+package pactera.framework.uitl.html;
 
 /**
  *  Properties for html element
