@@ -7,8 +7,8 @@
     <!-- OpenWeatherMap Webservice -->
     <!-- Ref: https://home.openweathermap.org/api_keys -->
     <open-weather-map>
-        <url>http://samples.openweathermap.org/data/2.5/weather?q=</url>
-        <!--<url>http://api.openweathermap.org/data/2.5/weather?q=</url>-->
+        <!--<url>http://samples.openweathermap.org/data/2.5/weather?q=</url>-->
+        <url>http://api.openweathermap.org/data/2.5/weather?q=</url>
         <api>
             <name>Default</name>
             <key>c3d87434eb1773ed3f5270da0c65db21</key>

@@ -38,3 +38,6 @@ buildNumber.properties
 
 .idea/
 weather-webapp.iml
+src-web/WEB-INF/lib/
+src-web/resources/image/
+src/test/java/
